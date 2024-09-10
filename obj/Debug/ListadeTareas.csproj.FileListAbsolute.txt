@@ -1,0 +1,20 @@
+C:\Users\Yosmal\source\repos\ListadeTareas\bin\Debug\ListadeTareas.exe.config
+C:\Users\Yosmal\source\repos\ListadeTareas\bin\Debug\ListadeTareas.exe
+C:\Users\Yosmal\source\repos\ListadeTareas\bin\Debug\ListadeTareas.pdb
+C:\Users\Yosmal\source\repos\ListadeTareas\obj\Debug\ListadeTareas.csproj.AssemblyReference.cache
+C:\Users\Yosmal\source\repos\ListadeTareas\obj\Debug\ListadeTareas.Form1.resources
+C:\Users\Yosmal\source\repos\ListadeTareas\obj\Debug\ListadeTareas.Properties.Resources.resources
+C:\Users\Yosmal\source\repos\ListadeTareas\obj\Debug\ListadeTareas.csproj.GenerateResource.cache
+C:\Users\Yosmal\source\repos\ListadeTareas\obj\Debug\ListadeTareas.csproj.CoreCompileInputs.cache
+C:\Users\Yosmal\source\repos\ListadeTareas\obj\Debug\ListadeTareas.exe
+C:\Users\Yosmal\source\repos\ListadeTareas\obj\Debug\ListadeTareas.pdb
+C:\Users\Yosmal\Desktop\C4\Programacion II\Lista de Tarea\ListadeTareas\bin\Debug\ListadeTareas.exe.config
+C:\Users\Yosmal\Desktop\C4\Programacion II\Lista de Tarea\ListadeTareas\bin\Debug\ListadeTareas.exe
+C:\Users\Yosmal\Desktop\C4\Programacion II\Lista de Tarea\ListadeTareas\bin\Debug\ListadeTareas.pdb
+C:\Users\Yosmal\Desktop\C4\Programacion II\Lista de Tarea\ListadeTareas\obj\Debug\ListadeTareas.csproj.AssemblyReference.cache
+C:\Users\Yosmal\Desktop\C4\Programacion II\Lista de Tarea\ListadeTareas\obj\Debug\ListadeTareas.Form1.resources
+C:\Users\Yosmal\Desktop\C4\Programacion II\Lista de Tarea\ListadeTareas\obj\Debug\ListadeTareas.Properties.Resources.resources
+C:\Users\Yosmal\Desktop\C4\Programacion II\Lista de Tarea\ListadeTareas\obj\Debug\ListadeTareas.csproj.GenerateResource.cache
+C:\Users\Yosmal\Desktop\C4\Programacion II\Lista de Tarea\ListadeTareas\obj\Debug\ListadeTareas.csproj.CoreCompileInputs.cache
+C:\Users\Yosmal\Desktop\C4\Programacion II\Lista de Tarea\ListadeTareas\obj\Debug\ListadeTareas.exe
+C:\Users\Yosmal\Desktop\C4\Programacion II\Lista de Tarea\ListadeTareas\obj\Debug\ListadeTareas.pdb
